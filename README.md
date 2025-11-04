@@ -61,4 +61,7 @@ The **Power BI dashboard** presents a comprehensive overview of Superstore’s p
 
 ---
 
-## 🗂️ Repository Structure
+## 🧑‍💻 Author
+Jagadeesh.N
+Data Analyst Intern – DataXLab
+📧 Email: jagadeesh.n10d@gmail.com 🌐 GitHub: https://github.com/jagan969646
